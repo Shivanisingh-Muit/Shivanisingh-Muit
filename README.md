@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivanisingh-Muit
 - 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning in India
+- 🌱 I’m currently learning in Maharishi University
 - 💞️ love to share my new projects on github
 - 📫 Reach me through linkdin
 - 😄 Pronouns: she/her
