@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [example.com](example.com)
-
-- 📝 I regularly write articles on [myblogexample.com](myblogexample.com)
+- 👨‍💻 All of my projects are available at [https://shivanisingh-muit.github.io/Portfolio/](example.com)
 
 - 💬 Ask me about **Frontend techniques**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shivani-singh-contact-shivanisingh/**
 
-- 📄 Know about my experiences [resumeexample.com](resumeexample.com)
+- 📄 Know about my experiences [https://gold-reeta-32.tiiny.site](resumeexample.com)
 
 - ⚡ Fun fact **'Love to be little wierd'**
 
