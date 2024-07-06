@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shivani-singh-contact-shivanisingh/**
 
-- 📄 Know about my experiences [https://gold-reeta-32.tiiny.site](resumeexample.com)
+- 📄 Know about my experiences [https://gold-reeta-32.tiiny.site](https://gold-reeta-32.tiiny.site)
 
 - ⚡ Fun fact **'Love to be little wierd'**
 
