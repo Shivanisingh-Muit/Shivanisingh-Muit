@@ -1,4 +1,3 @@
-[![MasterHead](https://blog.casebook.net/hubfs/58879-multitasking-woman.gif)](https://shivanisingh.io)
 <h1 align="center">Hi 👋, I'm Shivani singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="150" src="https://c.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif">
