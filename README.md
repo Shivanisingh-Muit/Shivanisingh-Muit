@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanisingh-muit&label=Profile%20views&color=0e75b6&style=flat" alt="shivanisingh-muit" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Video Editing**
 
 - 👨‍💻 All of my projects are available at [https://shivanisingh-muit.github.io/Portfolio/](example.com)
 
-- 💬 Ask me about **Frontend techniques**
+- 💬 Ask me about **Latest technology**
 
-- 📫 How to reach me **https://www.linkedin.com/in/shivani-singh-contact-shivanisingh/**
+- 📫 How to reach me **[https://www.linkedin.com/in/shivani-singh-contact-shivanisingh/](https://www.linkedin.com/in/shivani-singh-bca/)**
 
 - ⚡ Fun fact **'Love to be little wierd'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivanisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanisingh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivani-singh-bca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanisingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
